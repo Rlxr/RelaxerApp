@@ -18,7 +18,7 @@ const CanvasArea = ({ name, image, details }) => {
     switch (name) {
       case 'Frozen Brush':
         return <P5Wrapper sketch={frozenBrush} />;
-      case 'Sketch':
+      case 'Waves':
         return <P5Wrapper sketch={sketch} />;
       case 'Particle Plotter':
         return <P5Wrapper sketch={particlePlotter} />;
@@ -39,11 +39,7 @@ const CanvasArea = ({ name, image, details }) => {
     }
   };
 
-  return (
-    <div className='custom-canvas' style={{ backgroundImage: `url(${image})` }}>
-      {renderSketch()}
-    </div>
-  );
+  return <div className='custom-canvas'>{renderSketch()}</div>;
 };
 
 export default CanvasArea;
