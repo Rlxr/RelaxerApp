@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/mhh/static/css/main.142b39e6.chunk.css",
-    "main.js": "/mhh/static/js/main.af6735dd.chunk.js",
-    "main.js.map": "/mhh/static/js/main.af6735dd.chunk.js.map",
-    "runtime-main.js": "/mhh/static/js/runtime-main.79926623.js",
-    "runtime-main.js.map": "/mhh/static/js/runtime-main.79926623.js.map",
-    "static/css/2.26655735.chunk.css": "/mhh/static/css/2.26655735.chunk.css",
-    "static/js/2.af139b8a.chunk.js": "/mhh/static/js/2.af139b8a.chunk.js",
-    "static/js/2.af139b8a.chunk.js.map": "/mhh/static/js/2.af139b8a.chunk.js.map",
-    "index.html": "/mhh/index.html",
-    "precache-manifest.9d4c990e9dfbec608ad3ba4e1b242ea3.js": "/mhh/precache-manifest.9d4c990e9dfbec608ad3ba4e1b242ea3.js",
-    "service-worker.js": "/mhh/service-worker.js",
-    "static/css/2.26655735.chunk.css.map": "/mhh/static/css/2.26655735.chunk.css.map",
-    "static/css/main.142b39e6.chunk.css.map": "/mhh/static/css/main.142b39e6.chunk.css.map",
-    "static/media/slick-theme.css": "/mhh/static/media/slick.f97e3bbf.svg"
+    "main.css": "/RelaxerApp/static/css/main.2101e2ec.chunk.css",
+    "main.js": "/RelaxerApp/static/js/main.b4e8e2c3.chunk.js",
+    "main.js.map": "/RelaxerApp/static/js/main.b4e8e2c3.chunk.js.map",
+    "runtime-main.js": "/RelaxerApp/static/js/runtime-main.aa0db1c0.js",
+    "runtime-main.js.map": "/RelaxerApp/static/js/runtime-main.aa0db1c0.js.map",
+    "static/css/2.07c4d74f.chunk.css": "/RelaxerApp/static/css/2.07c4d74f.chunk.css",
+    "static/js/2.3a77f449.chunk.js": "/RelaxerApp/static/js/2.3a77f449.chunk.js",
+    "static/js/2.3a77f449.chunk.js.map": "/RelaxerApp/static/js/2.3a77f449.chunk.js.map",
+    "index.html": "/RelaxerApp/index.html",
+    "precache-manifest.ab4cd8820b697d18bd1bc04ccb84d58e.js": "/RelaxerApp/precache-manifest.ab4cd8820b697d18bd1bc04ccb84d58e.js",
+    "service-worker.js": "/RelaxerApp/service-worker.js",
+    "static/css/2.07c4d74f.chunk.css.map": "/RelaxerApp/static/css/2.07c4d74f.chunk.css.map",
+    "static/css/main.2101e2ec.chunk.css.map": "/RelaxerApp/static/css/main.2101e2ec.chunk.css.map",
+    "static/js/2.3a77f449.chunk.js.LICENSE": "/RelaxerApp/static/js/2.3a77f449.chunk.js.LICENSE",
+    "static/media/slick-theme.css": "/RelaxerApp/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.79926623.js",
-    "static/css/2.26655735.chunk.css",
-    "static/js/2.af139b8a.chunk.js",
-    "static/css/main.142b39e6.chunk.css",
-    "static/js/main.af6735dd.chunk.js"
+    "static/js/runtime-main.aa0db1c0.js",
+    "static/css/2.07c4d74f.chunk.css",
+    "static/js/2.3a77f449.chunk.js",
+    "static/css/main.2101e2ec.chunk.css",
+    "static/js/main.b4e8e2c3.chunk.js"
   ]
 }
